@@ -1,6 +1,6 @@
 <h1 align="center"> Conversor de moedas com Java </h1>
 
-<h2>Descricao<h2>
+<h2>Descricao</h2>
 <p>Aplicacao de conversao de moedas conforme as opcoes selecionadas pelo usuário e vaslor escolhido. Projeto desenvolvido para o desafio Alura de finalizacao da formacao Java Orientado a Objetos da Alura Oracle Next Education</p>
 
 # :hammer: Funcionalidades do projeto
